@@ -30,11 +30,11 @@ Depois de o texto copiado, o usuário pode colá-lo em algum lugar que possa ser
 
 Algo importante é ter em mente que a última página do documento deve ser em branco, pois o algoritmo repete a última página dependendo das sobras. Com a última página em branco o resultado fica mais bem acabado. Isso ocorre pois o adobre reader e o word não têm uma função de pular páginas, então o aplicativo insere a última para tapar o burado. 
 
-O aplicativo pode gerar cadernos repetidos. Quando isso acontecer, apenas pode-se ignorar  as repetições e continuar a sequência.
+* O aplicativo pode gerar cadernos repetidos. Quando isso acontecer, apenas pode-se ignorar  as repetições e continuar a sequência.
 
 # Como imprimir?
 
-Para imprimir é simples. Eu recomendo o Adobe reader com todas as configurações padrões e o word também padrão. Ambos devem estar com a opção de imprimir duas páginas em uma folha. 
+Para imprimir é simples. É recomendado o Adobe reader ou Word com todas as configurações padrões. Ambos devem estar com a opção de imprimir duas páginas em uma folha. 
 Depois é colada a sequência da frente (Front) do primeiro caderno. 
 Assim que terminar a impressão, deve-se colocar o bloco impresso sem mexer na ordem de volta na impressora para imprimir do outro lado. Dessa vez selecionando o verso (Back).
 
