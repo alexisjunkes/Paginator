@@ -1,6 +1,6 @@
 ## Paginator
 
-Play sore: [Paginator](https://play.google.com/store/apps/details?id=p.Paginador)
+Play store: [Paginator](https://play.google.com/store/apps/details?id=p.Paginador)
 
 Pefil Maxok System [Maxɔk Sɪstəm](https://play.google.com/store/apps/dev?id=8889048160709029603)
 
