@@ -11,7 +11,7 @@ Ele também solucionar um certo problema gerado nas tentativas de imprimir de mo
 Por algum motivo desconhecido não é possível encontrar o aplicativo pela busca na play atores por seu nome, talvez seja o engajamento. Então para isso existem duas formas, a primeira é pelo [link] (https://play.google.com/store/apps/details?id=p.Paginador), e segunda é pesquisando por um outro aplicativo da Maxok System, [Atramentum micere](https://play.google.com/store/apps/details?id=atramentum.micere) quando entrar na página, clicar no perfil do desenvolvedor e procurar o aplicativo "Paginator".
 Talvez possa ser possível procurar o aplicativo tradicionalmente no futuro, mas por agora não é possível.
 
-O que é um layout de impressão?
+# O que é um layout de impressão?
 
 Antes de responder isso, devo apresentar um termo da encadernação que é nescessário para o entendimento. 
 Os livros são formados por, grosso modo, capa e um corpo. O corpo é formado com vários cadernos, folhas impressas dobradas que são costuradas ou cortadas e coladas formando a lombada.
@@ -32,7 +32,7 @@ Algo importante é ter em mente que a última página do documento deve ser em b
 
 O aplicativo pode gerar cadernos repetidos. Quando isso acontecer, apenas pode-se ignorar  as repetições e continuar a sequência.
 
-Como imprimir?
+# Como imprimir?
 
 Para imprimir é simples. Eu recomendo o Adobe reader com todas as configurações padrões e o word também padrão. Ambos devem estar com a opção de imprimir duas páginas em uma folha. 
 Depois é colada a sequência da frente (Front) do primeiro caderno. 
@@ -40,12 +40,12 @@ Assim que terminar a impressão, deve-se colocar o bloco impresso sem mexer na o
 
 O resultado vai ser o caderno pronto para ser sobrado e encadernado.
 
-Atenções importantes
+# Atenções importantes
 
 Todo esse processo exige uma certa prática e atenção. Por mais que esteja bem determinada a sequência, o usuário deve prestar atenção na quantidade de papel. Geralmente impressoras caseiras, HP, Epson, e outras marcas para uso doméstico não suportam grandes quantidades de papel. Há grande chance de emperrar. Então é bom ter cuidado quanto a isso. 
 Também é bom deixar os papéis soltos antes do procedimento, pois papéis podem grudar um no outro e perder toda a impressão. 
 
-Quais impressoras usar
+# Quais impressoras usar
 O Paginator por criado e testado em jatos de tinta. Pode ser testado em impressoras lazer com o procedimento padrão. Tendo as folhas impressas inseridas novamente na gaveta de folhas em branco para a impressão no outro lado. 
 
 Nao posso afirmar que vá funcionar em impressora proficionais, pois o funcionamento e paginação padrão pode ser diferente. Mas se seguir a lógica de uma impressora comum, possa ser interessante imprimir com cadernos de mais de 20 folhas que pode ser cortados no meio e colados, ao invés de dobrados e costurados.
