@@ -8,7 +8,7 @@ O Paginator foi pensado para ser utilizado por pessoas que não tem condição d
 O aplicativo é focado em solucionar problema com número de páginas e tinta gastos para imprimir livros, artigos, teses, monografias e outros formatos de texto. 
 Ele também solucionar um certo problema gerado nas tentativas de imprimir de modo amador um texto, a falta de ferramentas para montar um layout de impressão que crie cadernos para formar um livro de modo gratuito ou sem o uso de Cracks.
 
-Por algum motivo desconhecido não é possível encontrar o aplicativo pela busca na play atores por seu nome, talvez seja o engajamento. Então para isso existem duas formas, a primeira é pelo link ##addblink###, e segunda é pesquisando por um outro aplicativo da Maxok System, "atramentum micere" quando entrar na página, clicar no perfil do desenvolvedor e procurar o aplicativo "Paginator".
+Por algum motivo desconhecido não é possível encontrar o aplicativo pela busca na play atores por seu nome, talvez seja o engajamento. Então para isso existem duas formas, a primeira é pelo [link] (https://play.google.com/store/apps/details?id=p.Paginador), e segunda é pesquisando por um outro aplicativo da Maxok System, [Atramentum micere](https://play.google.com/store/apps/details?id=atramentum.micere) quando entrar na página, clicar no perfil do desenvolvedor e procurar o aplicativo "Paginator".
 Talvez possa ser possível procurar o aplicativo tradicionalmente no futuro, mas por agora não é possível.
 
 O que é um layout de impressão?
