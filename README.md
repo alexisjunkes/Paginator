@@ -1,4 +1,4 @@
-# Paginator .
+# Paginator
 <img src="https://github.com/alexisjunkes/Paginator/blob/main/paginator_icone_002.jpg?raw=true" width="100" height="100">  
 
 
@@ -44,7 +44,7 @@ Depois é colada a sequência da frente (Front) do primeiro caderno.
 
 # Frente Adobe reader
 
-<img src="https://github.com/alexisjunkes/Paginator/blob/main/Captura%20de%20Tela%20(356).png??raw=true"/>  
+<img src="https://github.com/alexisjunkes/Paginator/blob/main/Captura%20de%20Tela%20(356).jpg?raw=true"/>  
 
 Assim que terminar a impressão, deve-se colocar o bloco impresso sem mexer na ordem de volta na impressora para imprimir do outro lado. Dessa vez selecionando o verso (Back).
 
