@@ -1,5 +1,6 @@
-# Paginator
+# Paginator 
 <img src="https://github.com/alexisjunkes/Paginator/blob/main/paginator_icone_002.jpg" width="100" height="100">
+
 Play store: [Paginator](https://play.google.com/store/apps/details?id=p.Paginador)
 
 Pefil Maxok System [Maxɔk Sɪstəm](https://play.google.com/store/apps/dev?id=8889048160709029603)
@@ -54,4 +55,4 @@ Lembrando que os primeiros usos devem ser de testes para aprender como a encader
 
 
 Espero que o Paginator possa ajudar as pessoas que não podem pagar por impressão proficionail a imprimir seus livros, e estudantes que querem imprimir seus materiais de estudo como artigos, teses e afins sem precisar gastar mais dinheiro com folhas.
-![](https://github.com/alexisjunkes/Paginator/blob/main/paginator_icone_002.jpg?raw=true)
+<img src="https://github.com/alexisjunkes/Paginator/blob/main/paginator_icone_002.jpg" width="100" height="100">
