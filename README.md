@@ -26,12 +26,15 @@ Nele há apenas dois campos a serem preenchidos, o número de páginas do docume
 Os cadernos de um livro podem ser feitos com indefinidas páginas, depende do método de impressão, porém, geralmente, não passa de 10 folhas, tendo o comum como 4 ou 5 folhas por caderno. 
 Depois de preencher esses dois itens é preciso escolher o modo de encadernação, a ocidental ou a japonesa. A ocidental é a comum para nós, com a lombada à esquerda. A japonesa é o contrário, com a lombada do livro à direita.
 Depois é preciso clicar no botão "next" e após uma propaganda vai ser gerado um texto com algumas sequencias de números separados por signatures (Os cadernos nesse caso). Ao lado do botão "next" há um botão de copiar o texto. 
-O aplicativo foi pensado para ser usado em conjunto com o computador, então não recomendo o uso da impressão por celular. Mas tudo depende de testes.
-Depois de o texto copiado, o usuário pode colá-lo em algum lugar que possa ser conectado ao computador, como o whatsapp web, o telegram web, por exemplo.
 
-Algo importante é ter em mente que a última página do documento deve ser em branco, pois o algoritmo repete a última página dependendo das sobras. Com a última página em branco o resultado fica mais bem acabado. Isso ocorre pois o adobre reader e o word não têm uma função de pular páginas, então o aplicativo insere a última para tapar o burado. 
+O aplicativo foi pensado para ser usado em conjunto com o computador, então não é recomendado o uso da impressão por celular, mas tudo depende de testes.
+Depois de o texto copiado, o usuário pode colá-lo em algum lugar que possa ser conectado ao computador, como alguma conversa no whatsapp web, telegram web, por exemplo.
 
-* O aplicativo pode gerar cadernos repetidos. Quando isso acontecer, apenas pode-se ignorar  as repetições e continuar a sequência.
+Algo importante é ter em mente que a última página do documento deve ser em branco, pois o algoritmo repete a última página dependendo das sobras. Com a última página em branco o resultado fica mais bem acabado. Isso ocorre pois o Adobre reader e o Word não têm uma função de pular páginas, então o aplicativo insere a última para tapar o burado. 
+
+* O aplicativo pode gerar cadernos repetidos. Quando isso acontecer, apenas pode-se ignorar  as repetições e continuar a sequência como visto abaixo.
+
+<img src="https://github.com/alexisjunkes/Paginator/blob/main/2021-05-26%20at%2023.58.16jjjjjj.jpg?raw=true" width="137" height="300"/>
 
 ## Como imprimir
 
