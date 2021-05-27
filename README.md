@@ -1,5 +1,5 @@
 # Paginator 
-<img src="https://github.com/alexisjunkes/Paginator/blob/main/paginator_icone_002.jpg" width="100" height="100">  
+<img src="https://github.com/alexisjunkes/Paginator/blob/main/paginator_icone_002.jpg?raw=true" width="100" height="100">  
 
 
 Play store: [Paginator](https://play.google.com/store/apps/details?id=p.Paginador)
@@ -39,11 +39,11 @@ Depois é colada a sequência da frente (Front) do primeiro caderno.
 
 # Frente  \\  Verso no Word
 
-<img src="https://github.com/alexisjunkes/Paginator/blob/main/Captura%20de%20Tela%20(353).png?"/>  <img src="https://raw.githubusercontent.com/alexisjunkes/Paginator/main/Captura%20de%20Tela%20(354).png"/>   
+<img src="https://github.com/alexisjunkes/Paginator/blob/main/Captura%20de%20Tela%20(353).png?raw=true"/>  <img src="https://raw.githubusercontent.com/alexisjunkes/Paginator/main/Captura%20de%20Tela%20(354).png?raw=true"/>   
 
 # Frente Adobe reader
 
-<img src="https://github.com/alexisjunkes/Paginator/blob/main/Captura%20de%20Tela%20(356).png?"/>  
+<img src="https://github.com/alexisjunkes/Paginator/blob/main/Captura%20de%20Tela%20(356).png??raw=true"/>  
 
 
 
