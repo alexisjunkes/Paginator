@@ -19,7 +19,7 @@ O layout de impressão é a sequência para imprimir esses cadernos e montar o c
 Nesse pequeno artigo não vou mostrar como encadernar um livro, existem muitos materiais bons para isso disponíveis na internet. 
 O que vamos ver é o aplicativo em si. 
 Nele há apenas dois campos a serem preenchidos, o número de páginas do documento a ser impresso, e o número de folhas que constituem um caderno. 
-Os cadernos de um livro podem ser feitos com indefinidas páginas, depende do método de impressão. O Paginator permite um número de até 30 folhas por caderno, o que é muito além do ideal, que, geralmente, não passa de 10 folhas, tendo o comum como 4 ou 5 folhas por caderno 
+Os cadernos de um livro podem ser feitos com indefinidas páginas, depende do método de impressão, porém, geralmente, não passa de 10 folhas, tendo o comum como 4 ou 5 folhas por caderno. 
 Depois de preencher esses dois itens é preciso escolher o modo de encadernação, a ocidental ou a japonesa. A ocidental é a comum para nós, com a lombada à esquerda. A japonesa é o contrário, com a lombada do livro à direita.
 Depois é preciso clicar no botão "next" e após uma propaganda vai ser gerado um texto com algumas sequencias de números separados por signatures (Os cadernos nesse caso). Ao lado do botão "next" há um botão de copiar o texto. 
 O aplicativo foi pensado para ser usado em conjunto com o computador, então não recomendo o uso da impressão por celular. Mas tudo depende de testes.
@@ -53,4 +53,4 @@ Lembrando que os primeiros usos devem ser de testes para aprender como a encader
 É recomendável o aplicativo ser usado por pessoas que já tenham o básico dos conceitos de encadernação.
 
 
-Espero que o Paginator possa ajudar as pessoas que não podem pagar por impressão proficionail a imprimir seus livros, e estudantes que querem imprimir seus materiais de estudo como artigos, teses e afins sem precisar gastar mais dinheiro com folhas.t.
+Espero que o Paginator possa ajudar as pessoas que não podem pagar por impressão proficionail a imprimir seus livros, e estudantes que querem imprimir seus materiais de estudo como artigos, teses e afins sem precisar gastar mais dinheiro com folhas.
