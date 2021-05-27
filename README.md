@@ -37,9 +37,14 @@ Algo importante é ter em mente que a última página do documento deve ser em b
 Para imprimir é simples. É recomendado o Adobe reader ou Word com todas as configurações padrões. Ambos devem estar com a opção de imprimir duas páginas em uma folha. 
 Depois é colada a sequência da frente (Front) do primeiro caderno. 
 
-#Frente  \\  #Verso
+#Frente  \\  #Verso no Word
 
-<img src="https://github.com/alexisjunkes/Paginator/blob/main/Captura%20de%20Tela%20(353).png?raw=true"/>  <img src="https://raw.githubusercontent.com/alexisjunkes/Paginator/main/Captura%20de%20Tela%20(354).png"/>  
+<img src="https://github.com/alexisjunkes/Paginator/blob/main/Captura%20de%20Tela%20(353).png?"/>  <img src="https://raw.githubusercontent.com/alexisjunkes/Paginator/main/Captura%20de%20Tela%20(354).png"/>   
+
+#Frente Adobe reader
+<img src="https://github.com/alexisjunkes/Paginator/blob/main/Captura%20de%20Tela%20(356).png?"/>  
+
+
 
 Assim que terminar a impressão, deve-se colocar o bloco impresso sem mexer na ordem de volta na impressora para imprimir do outro lado. Dessa vez selecionando o verso (Back).
 
@@ -48,7 +53,7 @@ O resultado vai ser o caderno pronto para ser sobrado e encadernado.
 ## Atenções importantes
 
 Todo esse processo exige uma certa prática e atenção. Por mais que esteja bem determinada a sequência, o usuário deve prestar atenção na quantidade de papel. Geralmente impressoras caseiras, HP, Epson, e outras marcas para uso doméstico não suportam grandes quantidades de papel. Há grande chance de emperrar. Então é bom ter cuidado quanto a isso. 
-Também é bom deixar os papéis soltos antes do procedimento, pois papéis podem grudar um no outro e perder toda a impressão. 
+Também é bom deixar os papéis soltos antes do procedimento, pois papéis podem grudar um no outro e perder todo o caderno. 
 
 ## Quais impressoras usar?
 O Paginator por criado e testado em jatos de tinta. Pode ser testado em impressoras lazer com o procedimento padrão. Tendo as folhas impressas inseridas novamente na gaveta de folhas em branco para a impressão no outro lado. 
