@@ -13,7 +13,7 @@ Ele também solucionar um certo problema gerado nas tentativas de imprimir de mo
 Antes de responder isso, devo apresentar um termo da encadernação que é nescessário para o entendimento. 
 Os livros são formados por, grosso modo, capa e um corpo. O corpo é formado com vários cadernos, folhas impressas dobradas que são costuradas ou cortadas e coladas formando a lombada.
 
-![alt text](https://github.com/alexisjunkes/Paginator/blob/main/WhatsApp%20Image%202021-05-26%20at%2013.11.16.jpeg?raw=true)
+![](https://github.com/alexisjunkes/Paginator/blob/main/WhatsApp%20Image%202021-05-26%20at%2013.11.16.jpeg?raw=true)
 
 O layout de impressão é a sequência para imprimir esses cadernos e montar o corpo do livro. 
 Nesse pequeno artigo não vou mostrar como encadernar um livro, existem muitos materiais bons para isso disponíveis na internet. 
@@ -54,3 +54,4 @@ Lembrando que os primeiros usos devem ser de testes para aprender como a encader
 
 
 Espero que o Paginator possa ajudar as pessoas que não podem pagar por impressão proficionail a imprimir seus livros, e estudantes que querem imprimir seus materiais de estudo como artigos, teses e afins sem precisar gastar mais dinheiro com folhas.
+![](https://github.com/alexisjunkes/Paginator/blob/main/paginator_icone_002.jpg?raw=true)
