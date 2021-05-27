@@ -72,8 +72,8 @@ Lembrando também que os primeiros usos devem ser de testes para aprender como a
 
 Espero que o Paginator possa ajudar as pessoas que não podem pagar por impressão proficionail a imprimir seus livros, como escritores que gostariam de dar seus livros para amigos ou estudantes que queiram imprimir seus materiais de estudo como artigos, teses e afins de modo mais enocômico.
 
-Por:
+Por: [Maxɔk Sɪstəm](https://play.google.com/store/apps/dev?id=8889048160709029603)
 
 <img src="https://github.com/alexisjunkes/Paginator/blob/main/MAxok_system_logo001.jpg?raw=true" width="533" height="300">
 
-Maxok System [Maxɔk Sɪstəm](https://play.google.com/store/apps/dev?id=8889048160709029603)
+
