@@ -37,11 +37,12 @@ Algo importante é ter em mente que a última página do documento deve ser em b
 Para imprimir é simples. É recomendado o Adobe reader ou Word com todas as configurações padrões. Ambos devem estar com a opção de imprimir duas páginas em uma folha. 
 Depois é colada a sequência da frente (Front) do primeiro caderno. 
 
-#Frente  \\  #Verso no Word
+# Frente  \\  Verso no Word
 
 <img src="https://github.com/alexisjunkes/Paginator/blob/main/Captura%20de%20Tela%20(353).png?"/>  <img src="https://raw.githubusercontent.com/alexisjunkes/Paginator/main/Captura%20de%20Tela%20(354).png"/>   
 
-#Frente Adobe reader
+# Frente Adobe reader
+
 <img src="https://github.com/alexisjunkes/Paginator/blob/main/Captura%20de%20Tela%20(356).png?"/>  
 
 
