@@ -42,7 +42,7 @@ O resultado vai ser o caderno pronto para ser sobrado e encadernado.
 Todo esse processo exige uma certa prática e atenção. Por mais que esteja bem determinada a sequência, o usuário deve prestar atenção na quantidade de papel. Geralmente impressoras caseiras, HP, Epson, e outras marcas para uso doméstico não suportam grandes quantidades de papel. Há grande chance de emperrar. Então é bom ter cuidado quanto a isso. 
 Também é bom deixar os papéis soltos antes do procedimento, pois papéis podem grudar um no outro e perder toda a impressão. 
 
-# Quais impressoras usar
+# Quais impressoras usar?
 O Paginator por criado e testado em jatos de tinta. Pode ser testado em impressoras lazer com o procedimento padrão. Tendo as folhas impressas inseridas novamente na gaveta de folhas em branco para a impressão no outro lado. 
 
 Nao posso afirmar que vá funcionar em impressora proficionais, pois o funcionamento e paginação padrão pode ser diferente. Mas se seguir a lógica de uma impressora comum, possa ser interessante imprimir com cadernos de mais de 20 folhas que pode ser cortados no meio e colados, ao invés de dobrados e costurados.
