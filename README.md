@@ -29,7 +29,7 @@ Algo importante é ter em mente que a última página do documento deve ser em b
 
 * O aplicativo pode gerar cadernos repetidos. Quando isso acontecer, apenas pode-se ignorar  as repetições e continuar a sequência.
 
-# Como imprimir?
+# Como imprimir
 
 Para imprimir é simples. É recomendado o Adobe reader ou Word com todas as configurações padrões. Ambos devem estar com a opção de imprimir duas páginas em uma folha. 
 Depois é colada a sequência da frente (Front) do primeiro caderno. 
