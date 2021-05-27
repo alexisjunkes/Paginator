@@ -62,18 +62,18 @@ Também é bom deixar os papéis soltos antes do procedimento, pois papéis pode
 ## Quais impressoras usar?
 O Paginator por criado e testado em jatos de tinta. Pode ser testado em impressoras laser com o procedimento padrão. Tendo as folhas impressas inseridas novamente na gaveta de folhas em branco para a impressão no outro lado. 
 
-Nao posso afirmar que vá funcionar em impressora proficionais, pois o funcionamento e paginação padrão pode ser diferente. Mas se seguir a lógica de uma impressora comum, possa ser interessante imprimir com cadernos de mais de 20 folhas que pode ser cortados no meio e colados, ao invés de dobrados e costurados.
+Não posso afirmar que vá funcionar em impressora proficionais, pois o funcionamento e paginação padrão pode ser diferente. Mas se seguir a lógica de uma impressora comum, possa ser interessante imprimir com cadernos de mais de 20 folhas que pode ser cortados no meio e colados, ao invés de dobrados e costurados.
 
-Lembrando que podem ser impresso livros de qualquer tamanho, tendo o mínimo de 3 páginas. Com uma folhas impressas.
+Lembrando que podem ser impresso livros de qualquer tamanho, tendo o mínimo de 3 páginas. Com uma folha impressa.
 
-Lembrando que os primeiros usos devem ser de testes para aprender como a encadernação funciona. Sempre utilizando documentos pequenos Para aprender os layouts e como usar o aplicativo. Para assim ir aumentando o tamanho dos documentos.
+Lembrando também que os primeiros usos devem ser de testes para aprender como a encadernação funciona. Sempre utilizando documentos pequenos Para aprender os layouts e como usar o aplicativo. Para assim ir aumentando o tamanho dos documentos.
 É recomendável o aplicativo ser usado por pessoas que já tenham o básico dos conceitos de encadernação.
 
 
-Espero que o Paginator possa ajudar as pessoas que não podem pagar por impressão proficionail a imprimir seus livros, e estudantes que querem imprimir seus materiais de estudo como artigos, teses e afins sem precisar gastar mais dinheiro com folhas.
+Espero que o Paginator possa ajudar as pessoas que não podem pagar por impressão proficionail a imprimir seus livros, como escritores que gostariam de dar seus livros para amigos ou estudantes que queiram imprimir seus materiais de estudo como artigos, teses e afins de modo mais enocômico.
 
 Por:
 
 <img src="https://github.com/alexisjunkes/Paginator/blob/main/MAxok_system_logo001.jpg?raw=true" width="533" height="300">
 
-Pefil Maxok System [Maxɔk Sɪstəm](https://play.google.com/store/apps/dev?id=8889048160709029603)
+Maxok System [Maxɔk Sɪstəm](https://play.google.com/store/apps/dev?id=8889048160709029603)
