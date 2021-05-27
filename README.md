@@ -1,4 +1,4 @@
-# Paginator 
+# Paginator .
 <img src="https://github.com/alexisjunkes/Paginator/blob/main/paginator_icone_002.jpg?raw=true" width="100" height="100">  
 
 
