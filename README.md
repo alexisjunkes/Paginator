@@ -76,5 +76,6 @@ Por: [Maxɔk Sɪstəm](https://play.google.com/store/apps/dev?id=888904816070902
 
 <img src="https://github.com/alexisjunkes/Paginator/blob/main/MAxok_system_logo001.jpg?raw=true" width="533" height="300">
 
+Para relatar bugs e sugestões:
 
-
+Maxok.System@outlook.com
