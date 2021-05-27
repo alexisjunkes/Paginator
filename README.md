@@ -31,7 +31,7 @@ Depois é preciso clicar no botão "next" e após uma propaganda vai ser gerado 
 O aplicativo foi pensado para ser usado em conjunto com o computador, então não é recomendado o uso da impressão por celular, mas tudo depende de testes.
 Depois de o texto copiado, o usuário pode colá-lo em algum lugar que possa ser conectado ao computador, como alguma conversa no whatsapp web, telegram web, por exemplo.
 
-Algo importante é ter em mente que a última página do documento deve ser em branco, pois o algoritmo repete a última página dependendo das sobras. Com a última página em branco o resultado fica mais bem acabado. Isso ocorre pois o Adobre reader e o Word não têm uma função de pular páginas, então o aplicativo insere a última para tapar o burado. 
+Algo importante é ter em mente que a última página do documento deve ser em branco, pois o algoritmo repete a última página dependendo das sobras. Com a última página em branco o resultado fica mais bem acabado. Isso ocorre pois o Adobre reader e o Word não têm uma função de pular páginas, então o aplicativo insere a última para tapar o buraco. 
 
 * O aplicativo pode gerar cadernos repetidos. Quando isso acontecer, apenas pode-se ignorar  as repetições e continuar a sequência como visto abaixo.
 
