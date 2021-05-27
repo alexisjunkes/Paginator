@@ -39,7 +39,7 @@ Algo importante é ter em mente que a última página do documento deve ser em b
 ## Como imprimir
 
 Para imprimir é simples. É recomendado o Adobe reader ou Word com todas as configurações padrões. Ambos devem estar com a opção de imprimir duas páginas em uma folha. 
-Depois é colada a sequência da frente (Front) do primeiro caderno. 
+Depois é colada a sequência da frente (Front) do primeiro caderno. Os leitores de PDF dos navegadores (Edga, Chrome, etc) não podem ser usados. Eles têm um algorítmo que organiza de modo crescente a paginação mesmo dando uma ordem especifica.
 
 # Frente  \\  Verso no Word
 
