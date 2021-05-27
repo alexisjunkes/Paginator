@@ -36,6 +36,11 @@ Algo importante é ter em mente que a última página do documento deve ser em b
 
 Para imprimir é simples. É recomendado o Adobe reader ou Word com todas as configurações padrões. Ambos devem estar com a opção de imprimir duas páginas em uma folha. 
 Depois é colada a sequência da frente (Front) do primeiro caderno. 
+
+#Frente  \\  #Verso
+
+<img src="https://github.com/alexisjunkes/Paginator/blob/main/Captura%20de%20Tela%20(353).png?raw=true"/>  <img src="https://raw.githubusercontent.com/alexisjunkes/Paginator/main/Captura%20de%20Tela%20(354).png"/>  
+
 Assim que terminar a impressão, deve-se colocar o bloco impresso sem mexer na ordem de volta na impressora para imprimir do outro lado. Dessa vez selecionando o verso (Back).
 
 O resultado vai ser o caderno pronto para ser sobrado e encadernado.
